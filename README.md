@@ -126,7 +126,8 @@ print('MAE = ',mae)
 rmse=np.sqrt(mse)
 print("RMSE = ",rmse)
 ```
- <img width="181" alt="image" src="https://github.com/user-attachments/assets/7fcc71b1-47c9-4754-9b8a-04d06f213019" />
+<img width="260" alt="image" src="https://github.com/user-attachments/assets/e6412fd9-e631-4ad2-a96a-af7f0b3eb7cf" />
+
 
 
 ## Output:
